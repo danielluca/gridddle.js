@@ -16,3 +16,5 @@ function createBaselineGrid(baselineGridHeight) {
 
     document.getElementsByClassName('baselineGridContainer')[0].innerHTML += baselineGrid.repeat(documentHeight / baselineGridHeight);
 }
+
+createBaselineGrid(baselineGridHeight);
