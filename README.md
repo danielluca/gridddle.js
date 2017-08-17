@@ -6,7 +6,7 @@ A tool to create better vertical rhythm in your websites.
 
 2. Insert gridddle.js to your web file.
 
-3. Open the gridddle.js file and insert your baseline grid height into the function.
+3. Open the gridddle.js file and insert your baseline grid height into the function. For expample 8.
 ``` 
 CreateBaselineGrid(heightOfBaselineGrid);
 ```
