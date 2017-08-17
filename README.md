@@ -1,7 +1,9 @@
 # gridddle.js
-A tool to create better vertical rhythm in your websites.
+A tool to create better vertical rhythm on your websites.
 
-## How to use gridddle
+
+
+### How to use gridddle
 1. Move or copy the gridddle.js file to your web project.
 
 2. Insert gridddle.js to your web file.
