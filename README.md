@@ -10,7 +10,7 @@ A tool to create better vertical rhythm on your websites.
 
 3. Open the gridddle.js file and insert your baseline grid height into the function. For expample 8.
 ``` 
-CreateBaselineGrid(heightOfBaselineGrid);
+createBaselineGrid(baselineGridHeight)
 ```
 
 4. Reload your web page and you will see your baseline grid.
