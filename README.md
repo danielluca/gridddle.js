@@ -15,4 +15,4 @@ createBaselineGrid(8); //This will create a 8px baseline grid
 
 4. Reload your web page and you will see your baseline grid.
 
-5. Start to tweak your css and match your elements to the baseline grid.
+5. Start to tweak your css and adjust your elements to the baseline grid.
